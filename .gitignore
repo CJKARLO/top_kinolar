@@ -1,0 +1,8 @@
+﻿.env
+bot.db
+*.db
+*.pyc
+__pycache__/
+venv/
+.venv/
+videos/
